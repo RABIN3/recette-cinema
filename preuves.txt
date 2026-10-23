@@ -1,0 +1,31 @@
+REPONSES AUX QUESTIONS
+
+11 ans, votre billet coûte 1500 FCFA
+12 ans, votre billet coûte 1500 FCFA
+13 ans, votre billet coûte 1500 FCFA
+14 ans, votre billet coûte 1500 FCFA
+15 ans, votre billet coûte 1500 FCFA
+16 ans, votre billet coûte 2500 FCFA
+17 ans, votre billet coûte 2500 FCFA
+18 ans, votre billet coûte 2000 FCFA
+19 ans, votre billet coûte 2000 FCFA
+20 ans, votre billet coûte 2000 FCFA
+Recette totale : 18500 FCFA
+Billets à 1500 FCFA : 5
+Billets à 2500 FCFA : 2
+Billets à 2000 FCFA : 3
+
+age : 11ans, prix : 1500 FCFA
+age : 12ans, prix : 1500 FCFA
+age : 13ans, prix : 1500 FCFA
+age : 14ans, prix : 1500 FCFA
+age : 15ans, prix : 1500 FCFA
+age : 16ans, prix : 2000 FCFA
+age : 17ans, prix : 2000 FCFA
+age : 18ans, prix : 2500 FCFA
+age : 19ans, prix : 2500 FCFA
+age : 20ans, prix : 2500 FCFA
+Recette totale : 19000 FCFA 
+Billet à 1500 FCFA : 5
+Billet à 2500 FCFA : 3
+Billet à 2000 FCFA : 2
