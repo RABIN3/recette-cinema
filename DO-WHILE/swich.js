@@ -1,10 +1,11 @@
-let jour = "Mardi";
+let jour = "Jeudi";
+
 switch (jour) {
-
-    case 1: "Mardi";
-        console.log("C'est un jour de repos"); break
-
-    case 2: "Mardi";
-        console.log("C'est PAS un jour de repos"); break
-    default: console.log("A bientot");
+    case "Jeudi":
+        console.log("Jeudi");
+        break;
+    default:
+        console.log("Ce n'est pas un jour de repos");
 }
+
+console.log("A BIENTOT");
